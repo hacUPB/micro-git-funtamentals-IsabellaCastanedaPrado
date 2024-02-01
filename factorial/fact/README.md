@@ -1,3 +1,27 @@
+Evaluacion 1
+
+Acabo de realizar mi primer trabajo utilizando la plaforma Git y Github,
+el cual consistia en modificar ciertas partes del codigo y realizar los 
+debidos registros de la informacion mediante la herramienta git para crear commits
+que sirvieran como guía para saber que accion realizabamos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In this directory, you should write the program `fact.c` and compile it into
 the binary `fact` (e.g., `gcc -o fact fact.c -Wall -Werror`).
